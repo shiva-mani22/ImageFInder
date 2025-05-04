@@ -70,6 +70,6 @@ section{
     transition: 500ms;
 }
 .images:hover{
-    filter: blur(0);
+
     scale: 1.03;
 }
