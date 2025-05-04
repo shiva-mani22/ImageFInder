@@ -13,7 +13,7 @@ main{
 }
 nav{
     height: 15vh;
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     display: flex;
     background-color: rgb(57, 151, 107);
 }
@@ -21,7 +21,7 @@ nav{
     flex-basis: 30%;
     display: flex;
     justify-content: center;
-    border: 2px solid green;
+    /* border: 2px solid green; */
     align-items: center;
     font-family: mani;
     font-size: 30px;
@@ -29,7 +29,7 @@ nav{
 
 #nav_two{
     flex-basis: 70%;
-    border: 3px solid green;
+    /* border: 3px solid green; */
     justify-content: right;
     align-items: center;
     display: flex;
